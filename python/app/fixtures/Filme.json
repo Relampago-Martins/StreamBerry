@@ -1,0 +1,13 @@
+[
+{
+    "model": "streamberry.filme",
+    "pk": 1,
+    "fields": {
+        "titulo": "Killers of the flawer Moon",
+        "mes": 11,
+        "ano": 2023,
+        "genero": "Drama",
+        "streamings": []
+    }
+}
+]

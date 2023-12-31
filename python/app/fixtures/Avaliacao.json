@@ -1,0 +1,42 @@
+[
+    {
+        "model": "streamberry.avaliacao",
+        "pk": 1,
+        "fields": {
+            "filme": 1,
+            "usuario": null,
+            "nota": 4.3,
+            "comentario": "Muito bom"
+        }
+    },
+    {
+        "model": "streamberry.avaliacao",
+        "pk": 2,
+        "fields": {
+            "filme": 1,
+            "usuario": null,
+            "nota": 5,
+            "comentario": "Perfeito"
+        }
+    },
+    {
+        "model": "streamberry.avaliacao",
+        "pk": 3,
+        "fields": {
+            "filme": 1,
+            "usuario": null,
+            "nota": 3.3,
+            "comentario": "Ah sei lá, não gostei muito"
+        }
+    },
+    {
+        "model": "streamberry.avaliacao",
+        "pk": 4,
+        "fields": {
+            "filme": 2,
+            "usuario": null,
+            "nota": 4.3,
+            "comentario": "Muito bom"
+        }
+    }
+]

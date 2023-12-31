@@ -1,0 +1,23 @@
+[
+    {
+        "model": "streamberry.streaming",
+        "pk": 1,
+        "fields": {
+            "nome": "Netflix"
+        }
+    },
+    {
+        "model": "streamberry.streaming",
+        "pk": 2,
+        "fields": {
+            "nome": "Amazon Prime Video"
+        }
+    },
+    {
+        "model": "streamberry.streaming",
+        "pk": 3,
+        "fields": {
+            "nome": "Disney"
+        }
+    }
+]
